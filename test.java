@@ -16,3 +16,4 @@ public class VulnerableLogExample extends HttpServlet {
         logger.warning("User message: " + userMessage);
     }
 }
+
